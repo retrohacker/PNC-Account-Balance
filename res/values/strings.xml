@@ -2,9 +2,6 @@
 <resources>
 
     <string name="app_name">PNCBal</string>
-    <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="title_activity_main">MainActivity</string>
-    <string name="title_activity_m">MainActivity</string>
-
+    <string name="config_msg">Configuring Application&#8230;</string>
+	<string name="config_title">Setup Widget</string>
 </resources>
